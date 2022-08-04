@@ -19,3 +19,6 @@ sudo apt-get install python3-pip
 sudo pip3 install virtualenv 
 virtualenv vcsd
 virtualenv -p /usr/bin/python3.6 vcsd
+
+to activate :
+source vcsd/bin/activate
