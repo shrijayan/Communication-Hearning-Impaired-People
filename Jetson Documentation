@@ -22,3 +22,14 @@ virtualenv -p /usr/bin/python3.6 vcsd
 
 to activate :
 source vcsd/bin/activate
+
+python3 NLP.py
+pip install serial
+pip install speechrecognition
+
+How to install PyAudio
+https://stackoverflow.com/questions/55984129/attributeerror-could-not-find-pyaudio-check-installation-cant-use-speech-re
+Step 1
+sudo apt-get install portaudio19-dev python-pyaudio
+Step 2
+pip install PyAudio
