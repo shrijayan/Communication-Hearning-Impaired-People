@@ -1,5 +1,8 @@
 # Jetson 
 Creating a Virtual Enviroment :
+->conda installation
+    wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+    
 sudo apt-get install python3-pip
 sudo pip3 install virtualenv 
 virtualenv vcsd
