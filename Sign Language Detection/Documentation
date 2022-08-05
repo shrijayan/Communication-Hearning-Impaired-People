@@ -1,1 +1,4 @@
-
+Tensor flow installlation
+          pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.0-py3-none-any.whl
+          
+          https://stackoverflow.com/questions/42317075/tensorflow-r1-0-could-not-a-find-a-version-that-satisfies-the-requirement-tens
