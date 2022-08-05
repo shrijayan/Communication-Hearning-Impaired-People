@@ -1,2 +1,7 @@
-ssh ailab@10.10.110.86
-password : ailab
+h5py
+numpy
+scikit-learn
+sklearn
+keras
+opencv-python
+pyttsx3
