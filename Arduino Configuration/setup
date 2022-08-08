@@ -1,0 +1,27 @@
+# Installing Ardino (Terminal Command) - Script Mode
+
+Step 1: Make sure your Ubuntu system packages are up-to-date:
+$ sudo apt update
+$ sudo apt upgrade
+
+Step 2: Download Arduino IDE and extract
+$ mkdir arduino
+$ cd arduino/
+$ wget https://downloads.arduino.cc/arduino-1.8.15-linux64.tar.xz
+
+Step 3: Extract the tar.xz file:
+$ tar -xvf ./arduino-1.8.15-linux64.tar.xz
+
+Step 4: Install Arduino using the installer script
+$ cd arduino-1.8.15/
+$ sudo ./install.sh
+
+Adding user to dialout group
+$ ls -l /dev/ttyACM*
+
+you will get something like:
+crw-rw---- 1 root dialout 188, 0 5 apr 23.01 ttyACM0
+
+Now we just need to add our system user to the group:
+$ sudo usermod -a -G dialout <username>
+
