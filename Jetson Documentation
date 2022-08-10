@@ -3,6 +3,11 @@
 Installing Tensorflow :
 pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.5.0-py3-none-any.whl
 
+Error :
+Failed to load the native TensorFlow runtime. 
+Solution :
+pip install tensorflow --upgrade --force-reinstall
+
 Creating a Virtual Enviroment :
 ->conda installation
     https://chowdera.com/2022/02/202202131259067625.html
