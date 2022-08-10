@@ -1,4 +1,8 @@
 # Jetson 
+
+Installing Tensorflow :
+pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.5.0-py3-none-any.whl
+
 Creating a Virtual Enviroment :
 ->conda installation
     https://chowdera.com/2022/02/202202131259067625.html
@@ -13,6 +17,8 @@ Creating a Virtual Enviroment :
                 conda config --set auto_activate_base false
 
                 Thank you for installing Miniforge-pypy3!
+                
+                ***Must restart the Jetson Nano
 
 
 sudo apt-get install python3-pip
