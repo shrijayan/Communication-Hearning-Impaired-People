@@ -13,4 +13,3 @@ The ability to communicate defines us as human beings and as a society .Human se
 
 
 
-https://github.com/baidwan007/Sign-Languge-to-speech-conversion/blob/master/exp3.py
