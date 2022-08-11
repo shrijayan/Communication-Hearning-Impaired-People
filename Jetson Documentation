@@ -2,6 +2,9 @@
 
 10-08-2022 3.25PM
 Installing Tensorflow :
+ pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.0-py3-none-any.whl
+
+
 pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.5.0-py3-none-any.whl
 
 Error :
