@@ -43,7 +43,7 @@ pip install serial
 pip3 install pyserial
 pip install speechrecognition
 pip3 install SpeechRecognition
-
+sudo apt install python3-opencv
 
 How to install PyAudio
 https://stackoverflow.com/questions/55984129/attributeerror-could-not-find-pyaudio-check-installation-cant-use-speech-re
