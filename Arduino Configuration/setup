@@ -25,3 +25,7 @@ crw-rw---- 1 root dialout 188, 0 5 apr 23.01 ttyACM0
 Now we just need to add our system user to the group:
 $ sudo usermod -a -G dialout <username>
 
+
+if port connnection is declined then use this code:
+ sudo chmod 666 /dev/ttyACM0 
+
