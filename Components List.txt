@@ -1,1 +1,27 @@
+Arduino board with cable
+LCD display 
+BreadBoard 
+Jumper Wires
+Scissor
+Insulation tape
+Led lights 
+Solder and led
+Vibration motor
+Resistor 
+Jetson nano - 4gb kit
+VVDN with adapter
+Monitor with cables
+Memory Card (2 - 32gb , 1-64 gb)
+Camera
+Sound sensor
+Push button 
+Powerbank with cable
+Keyboard
+Mouse
+USB hub
+Jetson cover
+Wifi antenna 
+Jetson power adapter
+Wifi chip 
+Bluetooth module
 
