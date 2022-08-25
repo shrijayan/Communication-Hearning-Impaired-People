@@ -18,7 +18,7 @@ This model mainly works on Multi Layered Perceptron (MLP) which detects the hand
   OpenCV 3.4.2 or Later<br>
   Tensorflow 2.3.0 or Later<br>
   tf-nightly 2.5.0.dev or later<br> 
-  scikit-learn 0.23.2<br>  
+  scikit-learn 0.23.2<br>
   matplotlib 3.3.2<br> 
 
 # Demo
