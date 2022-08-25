@@ -1,4 +1,4 @@
-# hand-gesture-recognition-using-mediapipe
+# Hand Gesture Recognition
 
 Install Mediapipe - https://google.github.io/mediapipe/getting_started/python.html
 
