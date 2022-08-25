@@ -7,18 +7,19 @@ This model mainly works on Multi Layered Perceptron (MLP) which detects the hand
  GIF
  
  This repository contains various versions in sign detection and the same have been listed below , 
-  A Sample program
-  Hand sign recognition model(TFLite)
-  Finger gesture recognition model(TFLite)
-  Learning data for hand sign recognition and notebook for learning
+  A Sample program ,
+  Hand sign recognition model(TFLite) ,
+  Finger gesture recognition model(TFLite) ,
+  Learning data for hand sign recognition and notebook for learning ,
   Learning data for finger gesture recognition and notebook for learning
 
 # Requirements
-  mediapipe 0.8.1
-  OpenCV 3.4.2 or Later
-  Tensorflow 2.3.0 or Later , tf-nightly 2.5.0.dev or later 
-  scikit-learn 0.23.2  
-  matplotlib 3.3.2 
+  mediapipe 0.8.1<br>
+  OpenCV 3.4.2 or Later<br>
+  Tensorflow 2.3.0 or Later<br>
+  tf-nightly 2.5.0.dev or later<br> 
+  scikit-learn 0.23.2<br>  
+  matplotlib 3.3.2<br> 
 
 # Demo
 Demo program using web camera
