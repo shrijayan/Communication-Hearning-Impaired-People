@@ -1,14 +1,10 @@
 # Hand Gesture Recognition
 
-Install Mediapipe - https://google.github.io/mediapipe/getting_started/python.html
+Before we get into hand sign recognition , it is mandatory to install mediapipe .
 
-Estimate hand pose using MediaPipe (Python version).<br> This is a sample 
-program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
-<br> ❗ _️**This is English Translated version of the [original repo](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe). All Content is translated to english along with comments and notebooks**_ ❗
-<br> 
-![mqlrf-s6x16](https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif)
-
-This repository contains the following contents.
+This model mainly works on Multi Layered Perceptron (MLP) which detects the hand gestures using the keypoints attained by the algorithm
+ GIF
+ This repository contains various versions in sign detection and the same have been listed below , 
 * Sample program
 * Hand sign recognition model(TFLite)
 * Finger gesture recognition model(TFLite)
