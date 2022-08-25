@@ -5,7 +5,8 @@ Access the Jetson Machine :-
 
 ssh ailab@10.10.110.86
 
-SIET College
+SIET College :-
+
 ssh ailab@192.168.5.130
 
 password : ailab
