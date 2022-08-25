@@ -1,12 +1,12 @@
 # How to Install Mediapipe in Jetson Nano 4GB
 
-Here, I Will show how to install MediaPipe in jetson nano and run an example program to make sure that it is working
 
-The normal way to install mediapipe in Linux is not working 
 
-So I have found a way to install mediapipe from source code, This way of installing is a little bit hard but it works very well in the jetsons.
+The normal way to install mediapipe in Linux will not work on jetson  
 
-I understand that the GitHub of mediapipe-bin has changed and you guys were getting errors while installing mediapipe , so I have fixed the error and changed the last step in my Github.
+So we have found a way to install mediapipe from source code, This way of installing is a little bit hard but it works very well in the jetsons.
+
+We understand that the GitHub of mediapipe-bin has changed and we were getting errors while installing mediapipe , so we have fixed the error and changed the last step.
 
 so now there should be no error and you can get mediapipe running in the jetson with no problem.
 
@@ -14,7 +14,7 @@ Thank you
 
 So let us start this Tutorial 
 
-In this tutorial, I am using a newly flashed jetson OS on my jetson nano
+In this tutorial, we are using a newly flashed jetson OS on my jetson nano
 
 Step 1 - First setup the jetson nano then update it using - 
 
@@ -98,13 +98,3 @@ Then run
 
        pip3 install dataclasses
 
-  This is the new way to install mediapipe in jetson
-
-    now continue with the video and complete the installation 
-    Also do not forget to subscribe to my channel.
-    
-https://www.youtube.com/channel/UC0Nm0O9WIpnPzETvmGoI0jA/
-
-Now all installation is completed , lets try to run a example program to make sure that it is working properly 
-
-Download the file from my GitHub and try running it on your computer 
