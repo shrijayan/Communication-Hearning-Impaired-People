@@ -1,4 +1,4 @@
-# ABOUT THIS PROJECT
+# About this Module
 I volunteer in an office where I'm often calling people on my personal cell phone, but others in the office can't see when I am, so sometimes try to talk with me over the partition or walk over to chat only to find I'm on a call.
 
 I needed something to alert them, so I made a simple device that lights up when I'm making or taking a phone call.
