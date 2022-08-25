@@ -21,4 +21,5 @@ This app has code (top right) that automatically selects the Bluetooth module wh
 
 When it's all done, power up the Arduino, start the phone app, scan for the HC-05 Bluetooth module (if you didn't put the device number in the code), and then any time you're taking or making a call, the led lights up.
 
-![wiring_bb_MgBK9p5aTU](https://user-images.githubusercontent.com/81805145/186573479-3bc697fb-d6e3-481b-8a43-6cc6d277314f.png)
+
+![wiring_bb_MgBK9p5aTU](https://user-images.githubusercontent.com/81805145/186573753-11ae64cd-6d3c-44c5-b184-180c289302bb.png)
