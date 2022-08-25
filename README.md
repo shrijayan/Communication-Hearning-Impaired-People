@@ -21,4 +21,3 @@ The ability to communicate defines us as human beings and as a society .Human se
 
 ![th (7)](https://user-images.githubusercontent.com/96587157/185306102-cae92804-b301-409f-a921-a83d3a37ee19.jpg)
 ![th (6)](https://user-images.githubusercontent.com/96587157/185306208-868bd429-3eac-41a6-acd4-2a65c8062e07.jpg)
-![th (2)](https://user-images.githubusercontent.com/96587157/185306143-400a7b66-fe2c-4718-961d-35663cc0c8fe.jpg)
